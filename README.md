@@ -1,1 +1,1 @@
-# Multiple-Techniques-for-Topic_Modelling
+# Multiple Techniques for Topic Modelling
